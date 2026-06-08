@@ -1,0 +1,21 @@
+body {
+    background-color: #bcc5df;
+    background-image: url('Dan .jpeg');
+    font-family: Arial, sans-serif;
+    border: 10px solid blue;
+    margin: 0;
+    padding: 20px;
+
+
+}
+#goals{ 
+    border: 2px salmon;
+    background-color: magenta;
+    margin:0;
+    padding: 40px;
+    text-align: center;
+}
+.soft{
+    color: #bd0d39;
+    
+}
